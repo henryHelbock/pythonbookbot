@@ -1,1 +1,1 @@
-experimenting with a bit of python
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
